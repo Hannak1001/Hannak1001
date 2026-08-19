@@ -15,24 +15,24 @@ currently looking for **new grad / entry-level software engineering roles**.
 
 ## languages
 
-![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=c9a96e)
-![C/C++](https://img.shields.io/badge/C%2FC++-0d0d1a?style=flat-square&logo=cplusplus&logoColor=c9a96e)
-![Java](https://img.shields.io/badge/Java-0d0d1a?style=flat-square&logo=java&logoColor=c9a96e)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=c9a96e)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=flat-square&logo=typescript&logoColor=c9a96e)
-![SQL](https://img.shields.io/badge/SQL-0d0d1a?style=flat-square&logo=postgresql&logoColor=c9a96e)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0d0d1a?style=flat-square&logo=html5&logoColor=c9a96e)
+![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=918EF4)
+![C/C++](https://img.shields.io/badge/C%2FC++-0d0d1a?style=flat-square&logo=cplusplus&logoColor=918EF4)
+![Java](https://img.shields.io/badge/Java-0d0d1a?style=flat-square&logo=coffeescript&logoColor=918EF4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=918EF4)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=flat-square&logo=typescript&logoColor=918EF4)
+![SQL](https://img.shields.io/badge/SQL-0d0d1a?style=flat-square&logo=postgresql&logoColor=918EF4)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0d0d1a?style=flat-square&logo=html5&logoColor=918EF4)
 
 ## frameworks & tools
 
-![React](https://img.shields.io/badge/React-0d0d1a?style=flat-square&logo=react&logoColor=c9a96e)
-![Flask](https://img.shields.io/badge/Flask-0d0d1a?style=flat-square&logo=flask&logoColor=c9a96e)
-![Supabase](https://img.shields.io/badge/Supabase-0d0d1a?style=flat-square&logo=supabase&logoColor=c9a96e)
-![SQLite](https://img.shields.io/badge/SQLite-0d0d1a?style=flat-square&logo=sqlite&logoColor=c9a96e)
-![Ollama](https://img.shields.io/badge/Ollama-0d0d1a?style=flat-square&logo=ollama&logoColor=c9a96e)
-![Figma](https://img.shields.io/badge/Figma-0d0d1a?style=flat-square&logo=figma&logoColor=c9a96e)
-![Git](https://img.shields.io/badge/Git-0d0d1a?style=flat-square&logo=git&logoColor=c9a96e)
-![Linux](https://img.shields.io/badge/Linux-0d0d1a?style=flat-square&logo=linux&logoColor=c9a96e)
+![React](https://img.shields.io/badge/React-0d0d1a?style=flat-square&logo=react&logoColor=918EF4)
+![Flask](https://img.shields.io/badge/Flask-0d0d1a?style=flat-square&logo=flask&logoColor=918EF4)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d1a?style=flat-square&logo=supabase&logoColor=918EF4)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d1a?style=flat-square&logo=sqlite&logoColor=918EF4)
+![Ollama](https://img.shields.io/badge/Ollama-0d0d1a?style=flat-square&logo=ollama&logoColor=918EF4)
+![Figma](https://img.shields.io/badge/Figma-0d0d1a?style=flat-square&logo=figma&logoColor=918EF4)
+![Git](https://img.shields.io/badge/Git-0d0d1a?style=flat-square&logo=git&logoColor=918EF4)
+![Linux](https://img.shields.io/badge/Linux-0d0d1a?style=flat-square&logo=linux&logoColor=918EF4)
 
 ---
 
@@ -49,15 +49,10 @@ currently looking for **new grad / entry-level software engineering roles**.
 
 ## goals
 
-- break into software engineering and keep growing
-- get serious about AI and where it's headed
-- ship work i'm proud of
+- 💻 break into software engineering and keep growing
+- ⚙️ get serious about AI and where it's headed
+- 📦 ship work i'm proud of
 
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannak1001&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=c9a96e&icon_color=c9a96e&text_color=9a9ab0&ring_color=c9a96e)
 
 ---
 

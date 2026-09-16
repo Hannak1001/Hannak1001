@@ -1,13 +1,3 @@
-![banner](./banner.png)
-
-<div align="center">
-
-*"Life is a lot like jazz. It's best when you improvise."* — George Gershwin
-
-</div>
-
----
-
 ## hey, i'm hanna
 
 cs senior at UTD, graduating May 2027. give me a problem and i'll dig in, ask questions, and get it done.
@@ -43,8 +33,6 @@ currently looking for **new grad / entry-level software engineering roles**.
 - 🎓 &nbsp;senior fall semester @ UTD
 - 🤖 &nbsp;CodePath AI engineering course
 - 🌐 &nbsp;building my personal website
-- 📖 &nbsp;*The Psychology of Money* — Morgan Housel
-- 🎹 &nbsp;finishing Liebestraum · thinking about Arabesque next
 - 💼 &nbsp;open to new grad software engineering roles
 
 ---
